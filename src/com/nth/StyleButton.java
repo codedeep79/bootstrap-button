@@ -69,7 +69,7 @@ class StyleButton {
 
         void applyTo(BtnBaseStyle btn) {
         }
-    ;
+    
 
     }
 
